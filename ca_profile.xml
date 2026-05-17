@@ -1,6 +1,6 @@
 <CommunityApplications>
   <Profile>
-    Describe what users will find in this repository, which apps or plugins you maintain, and where they should go for support.  Markdown supported
+    Building tools and configurations for the *arr stack. I'm currently working on Profilarr, which syncs quality profiles, custom formats, and media management settings from shared configuration databases into Radarr and Sonarr.
   </Profile>
   <Icon>https://raw.githubusercontent.com/Dictionarry-Hub/unraid-template/072933e8288598a136b9519a014b54eb1e741295/icon2.png</Icon>
   <WebPage>https://github.com/Dictionarry-Hub</WebPage>
